@@ -1,0 +1,7 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+c:\users\李申保\desktop\ppp\3.33\source\main.c(1): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\李申保\desktop\ppp\3.33\source\main.c(2): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+  HW.vcxproj -> C:\Users\李申保\Desktop\PPP\3.33\HW\HW\..\..\temp\debug\HW.exe
+  HW.vcxproj -> ..\..\temp\debug\HW.pdb (Partial PDB)
